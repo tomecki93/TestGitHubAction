@@ -1,0 +1,12 @@
+pyproject.toml
+setup.cfg
+setup.py
+src/jobs/__init__.py
+src/jobs/job_class.py
+src/jobs/py.typed
+src/slapping.egg-info/PKG-INFO
+src/slapping.egg-info/SOURCES.txt
+src/slapping.egg-info/dependency_links.txt
+src/slapping.egg-info/not-zip-safe
+src/slapping.egg-info/requires.txt
+src/slapping.egg-info/top_level.txt
