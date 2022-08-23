@@ -6,6 +6,10 @@ class tech_func:
         pass
 
     @staticmethod
+    def add(a, b):
+        return a + b
+
+    @staticmethod
     def capitalize2(string_col: str):
         return string_col.capitalize()
 
